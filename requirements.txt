@@ -1,11 +1,9 @@
-streamlit 
-Pillow 
-exifread 
-folium 
-opencv-python-headless 
-numpy 
-ultralytics 
-streamlit-drawable-canvas 
-streamlit-paste-button 
-torch 
-torchvision
+streamlit
+Pillow
+exifread
+folium
+numpy
+opencv-python-headless
+ultralytics --no-deps
+streamlit-drawable-canvas
+streamlit-paste-button
