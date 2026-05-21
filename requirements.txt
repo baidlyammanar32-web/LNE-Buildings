@@ -1,0 +1,1 @@
+echo streamlit > requirements.txt && echo Pillow >> requirements.txt && echo exifread >> requirements.txt && echo folium >> requirements.txt && echo opencv-python-headless >> requirements.txt && echo numpy >> requirements.txt && echo ultralytics >> requirements.txt && echo streamlit-drawable-canvas >> requirements.txt && echo streamlit-paste-button >> requirements.txt
