@@ -1,0 +1,14 @@
+streamlit==1.57.0
+Pillow
+exifread
+folium
+numpy
+opencv-python-headless==4.12.0.88
+streamlit-drawable-canvas
+streamlit-paste-button
+ultralytics
+PyYAML
+requests
+scipy
+matplotlib
+pandas
