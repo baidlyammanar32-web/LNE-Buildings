@@ -1,9 +1,6 @@
-streamlit
-Pillow
-exifread
-folium
-opencv-python-headless
-numpy
-ultralytics
-streamlit-drawable-canvas
-streamlit-paste-button
+streamlit==1.40.0 
+exifread 
+folium 
+ultralytics 
+streamlit-drawable-canvas 
+streamlit-paste-button 
